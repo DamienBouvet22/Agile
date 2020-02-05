@@ -2,19 +2,19 @@
 
 [Agile Manifesto](http://agilemanifesto.org/iso/fr/manifesto.html)
 
-##Daily Meeting
+## Daily Meeting
 Réunion quotidienne de l'equipe de dev  qui permet aux membres de l’équipe de se synchroniser, de remonter les obstacles rencontrés, de s’entraider, de vérifier l’avancement du sprint. 
 
-##Planning Poker
+## lanning Poker
 Plannification par l'equipe de dev (avec ou sans le product owner) pour estimer<br>
 la complexité et la faisabilité des taches
 
-##Product Backlog
+## Product Backlog
 Liste de tâches à acccomplir dans le projet<br>
 classée par valeur et/ou longueur
 
 
-##Product Owner
+## Product Owner
 Chef de projet<br>
 fait le lien entre le client et l'equipe de développement
 
