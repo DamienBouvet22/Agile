@@ -32,9 +32,9 @@ Itération de travail pouvant ou non donner lieu à un livrable
 ## Sprint Backlog
 Liste des tâches à accomplir pendant un sprint spécifique
 
-##S print Planning
+## Sprint Planning
 
-##Sprint Review
+## Sprint Review
 Point fait en cours de Sprint pour voir l'avancement de celui-ci et faire des adaptations si besoin
 
 ## Retrospective
