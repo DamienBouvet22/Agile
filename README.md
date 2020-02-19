@@ -14,16 +14,15 @@ Liste de tâches à acccomplir dans le projet<br>
 
 
 ## Product Owner
-Chef de projet<br>
-> fait le lien entre le client et l'equipe de développement
+C'est une sorte de Chef de projet qui gère l'organisationnel et la communication avec le client afin de s'assurer que toutes les parties soient sur la même longueur d'onde
 
 
 ## Release
 Une release correspond à la livraison d'une version. La release couvre la période de temps qui va du début du travail sur cette version jusqu'à sa livraison et qui passe par une série de sprints successifs
 
 ## Scrum Master
-Responsable de la bonne execution de la méthode Scrum au sein de l'equipe de dev<br>
-> Fait le lien entre les dev et le product owner
+Membre de l'équipe de Dev responsable de la bonne execution de la méthode Scrum<br>
+> Il est l'interlocuteur privilégié du product owner au sein de l'équipe de dev
 
 
 ## Sprint
