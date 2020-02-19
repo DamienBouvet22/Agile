@@ -50,5 +50,6 @@ Valeur donnée aux différentes user stories afin d'estimer leurs importantces e
 ## Velocite
 La vélocité est un indicateur qui permet de déterminer l’effort qu’est capable de fournir une équipe de développement pour la réalisation des tâches programmées dans un sprint. Elle est exprimée en nombre de points
 
-
+## Schéma
+![](https://471og62zyc0j2knguc3hjfa2-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH.png)
 
