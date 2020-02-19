@@ -21,8 +21,9 @@ C'est une sorte de Chef de projet qui gère l'organisationnel et la communicatio
 Une release correspond à la livraison d'une version. La release couvre la période de temps qui va du début du travail sur cette version jusqu'à sa livraison et qui passe par une série de sprints successifs
 
 ## Scrum Master
-Membre de l'équipe de Dev responsable de la bonne execution de la méthode Scrum<br>
-> Il est l'interlocuteur privilégié du product owner au sein de l'équipe de dev
+Membre de l'équipe Scrum en charge de la bonne execution de la méthode Scrum<br>
+> le Scrum Master ne fait pas partie de l'équipe de dev en théorie (il s'agit d'un rôle à plein temps). En pratique, c'est souvent un développeur qui endosse cette responsabilité à temps partiel en entreprise.<br>
+> Il est l'interlocuteur privilégié du product owner et joue un rôle de facilitation dans l'organisation du Scrum
 
 
 ## Sprint
