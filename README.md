@@ -1,9 +1,11 @@
-# MEMO AGILE / SCRUM
+# MEMO AGILE / SCRUM :memo:
 
-[Agile Manifesto](http://agilemanifesto.org/iso/fr/manifesto.html)
+:::info
+:bulb: [Agile Manifesto](http://agilemanifesto.org/iso/fr/manifesto.html)
+:::
 
 ## Daily Meeting
-Réunion quotidienne de l'equipe de dev  qui permet aux membres de l’équipe de se synchroniser, de remonter les obstacles rencontrés, de s’entraider, de vérifier l’avancement du sprint. 
+Réunion quotidienne de l'equipe de dev  qui permet aux membres de l’équipe de se synchroniser, de remonter les obstacles rencontrés, de s’entraider, de vérifier l’avancement du sprint.
 
 ## Planning Poker
 Plannification par l'equipe de dev (avec ou sans le product owner) pour estimer la complexité et la faisabilité des taches
