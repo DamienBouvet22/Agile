@@ -1,4 +1,4 @@
-# MEMO AGILE / SCRUM :memo:
+#  :memo: MEMO AGILE / SCRUM
 
 :bulb: [Agile Manifesto](http://agilemanifesto.org/iso/fr/manifesto.html)
 
@@ -10,12 +10,12 @@ Plannification par l'equipe de dev (avec ou sans le product owner) pour estimer 
 
 ## Product Backlog
 Liste de tâches à acccomplir dans le projet<br>
-classée par valeur et/ou longueur
+> classée par valeur et/ou longueur
 
 
 ## Product Owner
 Chef de projet<br>
-fait le lien entre le client et l'equipe de développement
+> fait le lien entre le client et l'equipe de développement
 
 
 ## Release
@@ -23,7 +23,7 @@ Une release correspond à la livraison d'une version. La release couvre la péri
 
 ## Scrum Master
 Responsable de la bonne execution de la méthode Scrum au sein de l'equipe de dev<br>
-Fait le lien entre les dev et le product owner
+> Fait le lien entre les dev et le product owner
 
 
 ## Sprint
@@ -36,7 +36,9 @@ Liste des tâches à accomplir pendant un sprint spécifique
 cérémonie que l’équipe scrum réalise en ouverture de Sprint pour cadrer le sprint qui démarre 
 
 ## Sprint Review
-Point fait en cours de Sprint pour voir l'avancement de celui-ci et faire des adaptations si besoin
+La sprint review a pour but de présenter le produit (soit le travail réalisé) durant le Sprint en cours. 
+On y présentera également l’état d’avancement du produit réalisé par rapport au produit imaginé.
+> Elle se situe en fin de Sprint juste avant la réunion de la Sprint Retrospective.
 
 ## Retrospective
 Analyse d'équipe sur les points positifs et négatifs / à améliorer à l'issue d'un Sprint
@@ -48,7 +50,8 @@ Tâche à accomplir dans le projet
 Valeur donnée aux différentes user stories afin d'estimer leurs importantces et donc prioriser les tâches
 
 ## Velocite
-La vélocité est un indicateur qui permet de déterminer l’effort qu’est capable de fournir une équipe de développement pour la réalisation des tâches programmées dans un sprint. Elle est exprimée en nombre de points
+La vélocité est un indicateur qui permet de déterminer l’effort qu’est capable de fournir une équipe de développement pour la réalisation des tâches programmées dans un sprint.
+> Elle est exprimée en nombre de points
 
 ## Schéma
 ![](https://bubbleplan.net/blog/wp-content/uploads/2018/05/430.jpeg)
