@@ -1,8 +1,6 @@
 # MEMO AGILE / SCRUM :memo:
 
-:::info
 :bulb: [Agile Manifesto](http://agilemanifesto.org/iso/fr/manifesto.html)
-:::
 
 ## Daily Meeting
 Réunion quotidienne de l'equipe de dev  qui permet aux membres de l’équipe de se synchroniser, de remonter les obstacles rencontrés, de s’entraider, de vérifier l’avancement du sprint.
